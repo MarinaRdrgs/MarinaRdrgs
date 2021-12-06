@@ -4,6 +4,7 @@
 - I've got a practical and analytical mindset, along with a continuously growing problem-solving skill
 - I'm a translator, working mainly on EN-PTBR
 - I'm also interested in Machine Learning, and Marketing & Business issues
+- An internship would be much appreciated. I am actively looking for an opportunity right now.
 - Some of my other favourite things are gaming, reading, and any dessert with strawberries. :strawberry:
 ---
 #### You can communicate with me in:
