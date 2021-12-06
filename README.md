@@ -8,12 +8,12 @@
 - You can communicate with me in Portuguese, English and Spanish. I am (slowly) working German as well, so if you have any tips feel free to message me.
 
 ---
-#### Languages and Tools:
+#### Tools and Programming Languages:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://svgshare.com/i/cb7.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftexcel.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/adobephotoshop.svg"></code>
+<code><img height="20" src="https://svgshare.com/i/c_G.svg"></code>
 
 ---
 <br>
