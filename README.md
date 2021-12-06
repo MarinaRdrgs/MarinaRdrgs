@@ -2,7 +2,7 @@
 #### I'm Marina, currently pursuing a Bachelor's Degree in Data Science and Artificial Intelligence
 
 - I've got a practical and analytical mindset, along with a continuously growing problem-solving skill
-- I'm a freelancer translator, working mainly on EN-PTBR
+- I'm a translator, working mainly on EN-PTBR
 - I'm also interested in Machine Learning, and Marketing & Business issues
 - Some of my other favourite things are gaming, reading, and any dessert with strawberries. :strawberry:
 ---
