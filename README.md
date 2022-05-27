@@ -1,15 +1,14 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I'm Marina, currently pursuing a Bachelor's Degree in Data Science and Artificial Intelligence
 
-- I've got a practical and analytical mindset, along with a continuously growing problem-solving skill
+- I've got a practical and analytical mindset, along with continuously growing problem-solving skills
 - I'm a translator, working mainly on EN-PTBR
-- I'm also interested in Machine Learning, and Marketing & Business issues
+- I'm also interested in Machine Learning, and Marketing & Business Intelligence
 - Some of my other favourite things are gaming, reading, and any dessert with strawberries. :strawberry:
 ---
 #### You can communicate with me in:
 - Portuguese (native)
-- English (fluent)
-- Spanish (intermediate)
+- English (advanced)
 ---
 #### Tools and Programming Languages:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
